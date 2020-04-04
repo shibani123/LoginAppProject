@@ -12,6 +12,3 @@ public class IndexController {
 		return "login";
 	}
 }
-
-
-
