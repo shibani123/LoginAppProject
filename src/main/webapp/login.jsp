@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 	<head>
-		<title>Login's Page</title>
+		<title>Login's Welcome Page</title>
 	</head>	
 	<body>
 		<h2>${logonerror}</h2>
